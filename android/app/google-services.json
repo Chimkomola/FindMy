@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077402084998",
+    "project_id": "missing-878cc",
+    "storage_bucket": "missing-878cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077402084998:android:2b315069350ebacc79d307",
+        "android_client_info": {
+          "package_name": "com.chimkotech.missing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077402084998-993jeibp763c3scb28lfv13get60vfuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARgCCjLdy4J61ruExBSTRgXYuUPDHCZ08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077402084998-993jeibp763c3scb28lfv13get60vfuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
