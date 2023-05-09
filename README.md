@@ -1,6 +1,7 @@
 # missing
+#Feel free to contribute your ideas
+Android application for reporting missing people. 
 
-A new Flutter project.
 
 ## Getting Started
 
